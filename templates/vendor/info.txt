@@ -1,0 +1,2 @@
+lệnh in ra màn hình ( dùng check lỗi):
+	console.log('test');
