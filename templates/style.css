@@ -4,6 +4,7 @@
 	background-color: blue;
 	width: 100px;
 	height: 50px;
+    display: none;
 }
 .triangle-2:before{
     content: "";

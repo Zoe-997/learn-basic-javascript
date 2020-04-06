@@ -32,7 +32,7 @@ function run(){
 	t =  t - 1;
 	console.log('value of t:' + t);
 
-	// ap dụng cho slide
+	// áp dụng cho slide
 	y = y + 1;
 	console.log('value of y:' + (y%2));
 }
